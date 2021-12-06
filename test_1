@@ -1,8 +1,6 @@
-//Schreibe ein kurzes Programm (statischer Modus), in dem eine int-Variable zahl gegeben ist. Das Programm soll überprüfen, ob
+// Multipliziere eine zahl x mit sich selbst und geben sie diese
+// per return wieder aus
 
-//zahl durch 5 teilbar ist (ohne Rest). Falls ja, soll das Programm "[zahl] ist durch 5 teilbar" in der Konsole ausgeben und weiter prüfen, ob ...
-//zahl durch 10 teilbar ist (ohne Rest). Falls ja, soll das Programm "[zahl] ist durch 10 teilbar" in der Konsole ausgeben und weiter prüfen, ob ...
-//zahl durch 15 teilbar ist (ohne Rest). Falls ja, soll das Programm "[zahl] ist durch 15 teilbar" in der Konsole ausgeben.
 int x = 2;
 int xs;
 void setup() {
